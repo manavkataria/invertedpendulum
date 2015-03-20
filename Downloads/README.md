@@ -1,1 +1,1 @@
-Downloads Image
+![Downloads](InvertedPendulumDownloads.jpg)
